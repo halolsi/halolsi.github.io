@@ -1,6 +1,8 @@
 body {
 
 	background-color: #000000;
+	background: url("http:/images/messy_garage.png");
+	background-size: cover;
 	font-family: Verdana,Arial,Sans-Serif;
 }
 
