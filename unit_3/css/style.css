@@ -1,13 +1,26 @@
 body {
 
 	background-color: white;
-	background: url("http://halolsi.github.io/unit_3/images/messy_garage.png");
+	font-family: Calibri;
+	text-align: center;
+	background: url("http://halolsi.github.io/unit_3/images/wafer_openhand2.jpg");
 	background-size: cover;
-	font-family: Verdana,Arial,Sans-Serif;
 }
 
-h1, p {
- 	text-align: center;
+h1,h2 {
 	font-weight: bold;
+/*	width: 100px;*/
+}
+
+p {
+
 	color: black;
+	font-size: 22px;
+}
+
+.link {
+	height: 50;
+    width: 50;
+    float: center;
+    text-align: center;
 }
