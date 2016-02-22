@@ -1,20 +1,21 @@
 body {
 
-	background-color: white;
+	background-color: black;
 	font-family: Calibri;
 	text-align: center;
-	background: url("http://halolsi.github.io/unit_3/images/wafer_openhand2.jpg");
+	background: url("http://halolsi.github.io/unit_3/images/wafer_openhand3a.jpg");
+/*	background-image: url("http://halolsi.github.io/unit_3/images/messy_garage.png");*/
 	background-size: cover;
 }
 
 h1,h2 {
 	font-weight: bold;
-/*	width: 100px;*/
+	color: white;
 }
 
 p {
 
-	color: black;
+	color: white;
 	font-size: 22px;
 }
 
