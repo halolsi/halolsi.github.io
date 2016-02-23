@@ -1,27 +1,35 @@
 body {
 
-	background-color: black;
-	font-family: Calibri;
+	font-family: Arial;
 	text-align: center;
-	background: url("http://halolsi.github.io/unit_3/images/wafer_openhand3a.jpg");
-/*	background-image: url("http://halolsi.github.io/unit_3/images/messy_garage.png");*/
+/*	background: url("http://halolsi.github.io/unit_3/images/carwafer6.png");
 	background-size: cover;
+	background-repeat: no-repeat;*/
+	background-color: white;
+	color: black;
 }
 
-h1,h2 {
-	font-weight: bold;
-	color: white;
+h1,h2,h3 {
+	color: black;
+}
+
+ul {
+	color: black;
+	font-size: 22px;
+	margin-right: 25%;
+	text-align: right;
 }
 
 p {
-
-	color: white;
+	color: gray;
 	font-size: 22px;
 }
 
-.link {
-	height: 50;
-    width: 50;
+.container {
     float: center;
     text-align: center;
+    background: url("http://halolsi.github.io/unit_3/images/carwafer5.png");
+/*	background-size: cover;*/
+	background-size: contain;
+	background-repeat: no-repeat;
 }
