@@ -28,8 +28,12 @@ p {
 .container {
     float: center;
     text-align: center;
-    background: url("http://halolsi.github.io/unit_3/images/carwafer5.png");
-/*	background-size: cover;*/
-	background-size: contain;
+    /*background: url("http://halolsi.github.io/unit_3/images/carwafer5.png");*/
+    background: white url("../images/carwafer7.png");
+    height: 0;
+    padding-bottom: 56.25%;
+	/*background-size: cover;*/
+/*	background-size: contain;*/
+	background-size: 100% auto;
 	background-repeat: no-repeat;
 }
