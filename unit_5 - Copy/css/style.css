@@ -1,0 +1,180 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,700,900);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,700italic,600);
+/*@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,700,700italic);*/
+
+body {
+	font-family: 'Alegreya Sans', sans-serif;
+	text-align: center;
+	background-color: #0088cc;
+	color: black;
+	font-size: 1em;
+}
+
+h1 {
+	font-family: 'Alegreya Sans', sans-serif;
+	color: black;
+	font-size: 2em;
+}
+
+ul {
+	font-family: 'Crimson Text', serif;
+	color: black;
+	line-height: 125%;
+	font-size: 1em;
+	margin-left: 25%;
+	text-align: left;
+}
+
+p {
+	color: black;
+	font-size: .875em;
+}
+
+#partners {
+	background-color: #FFE2B8;
+	border: 1px  black solid;
+	color: white;
+	font-size: .875em;
+}
+
+#flash{
+	background-color: #FFE2B8;
+	border: 1px  black solid;
+	color: black;
+	text-align: left;
+	line-height: 150%;
+	background: url("../images/image_bmw.jpg");
+	height: 0;
+	padding-top: 5%;
+	padding-bottom: 40%;
+	padding-left: 60%;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	font-size: 1.em;
+}
+#expertise{
+	background-color: #FFE2B8;
+	border: 1px  black solid;
+	color: black;
+	font-size: 1.0em;
+}
+
+#product{
+	border: 1px  black solid;
+	background-color: #FFE2B8;
+}
+
+#picture_sem{
+	border: 1px  black solid;
+	background: black url("../images/image_sem_v2.png");
+	color: yellow;
+ 	float: left;
+    text-align: left;
+   	height: 0;
+	padding: 0% 0% 25% 5%;	
+	font-size: 1.25em;
+  	border-bottom: 4px solid black;
+  	display: inline-block;
+  	background-size: 100% auto;
+  	background-repeat: no-repeat;
+}
+
+#description{
+	border: 1px  black solid;
+	background-color: #FFE2B8;
+	color: black;
+ 	float: center;
+    text-align: left;
+   	padding-left: 5px 5px;
+  	border-bottom: 4px solid black;
+  	display: inline-block;
+}
+
+#services{
+	background-color: #FFE2B8;
+	border: 1px  black solid;
+	background: yellow  url("../images/image_layout_v2.png");
+	color: black;
+ 	float: center;
+    text-align: left;
+   	width: 50%;
+   	padding-left: 50%;
+   	padding-top: 5px;
+    padding-bottom: 10%;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	font-size: 1.25em;
+  	border-bottom: 4px solid black;
+	display: inline-block;
+}
+
+#wrapper{
+	width: 75%;
+	margin: 0 auto;
+	font-size: 1em;
+}
+
+#location{
+	border: 1px  black solid;
+	color: green;
+	text-align: left;
+	line-height: 150%;
+	background:#FFE2B8 url("../images/image_oregon_v2.png");
+	height: 0;
+	padding-bottom: 25%;
+	padding-left: 50%;
+	background-size: 50% auto;
+	background-repeat: no-repeat;
+	font-size: .9em;
+}
+
+
+.wafer {
+	font-variant: small-caps;
+	background-color: #FFE2B8;
+	border: 1px  black solid;
+    float: center;
+    text-align: center;
+    background:url("../images/image_waferlibrary_v4.png");
+    height: 0;
+    padding-bottom: 10%;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	font-size: 1em;
+}
+
+header{
+	color: blue;
+	background-color: #FFED74;
+	border: 1px  black solid;
+	text-align: right;
+	padding: 20px;
+	font-size: .9em;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px  black solid;
+	text-align: center;
+  	padding: 1em 0;
+}
+
+img{
+	position: left;
+/*	display: in-line;
+*/	margin: 0 auto;
+}
+
+nav{
+	background-color: #E8C66A;
+	text-align: right;
+	float: center;
+	padding: 0px, 0px; /*top, right, bottom, left*/
+}
+
+span {
+/*  	font-family: Tahoma, sans-serif;*/
+  	padding: 0 .25em;
+  	background: rgba(255,255,255,.5);
+/*  	letter-spacing: .25em;*/
+}
