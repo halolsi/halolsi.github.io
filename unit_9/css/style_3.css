@@ -1,0 +1,35 @@
+/*@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300italic,700,900italic);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,700italic,600);
+*/
+
+body {
+	font-family: 'Calibri', sans-serif;
+	text-align: center;
+	font-size: 15px;
+	color: black;
+	background-color: white;
+	margin: 0% 0%;
+}
+
+
+p {
+	font-family: 'Crimson Text', serif;
+	font-size: 1.25em;
+	line-height: 1.25em;
+}
+
+
+@media only screen and (max-width: 1024px) {
+
+	p {
+		color: purple;
+	}
+	body {
+		font-size: 5px;
+	}
+
+}
+
+
+
+	
